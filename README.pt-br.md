@@ -1,4 +1,5 @@
 # Sinatra
+<!-- Kepler Fontenele -->
 
 *Atenção: Este documento é apenas uma tradução da versão em inglês e
 pode estar desatualizado.*
